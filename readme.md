@@ -107,9 +107,9 @@ A dark theme for Zed inspired by the original Moonfly color scheme by bluz71. It
 | Cyan | `#59E1E3` | `#6BE4E6` |
 | White | `#D5D8DA` | `#D5D8DA` |
 
-## Screenshot
+<!--## Screenshot
 
-Add screenshots here after publishing the theme.
+Add screenshots here after publishing the theme.-->
 
 ## Credits
 
